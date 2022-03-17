@@ -8,6 +8,4 @@ Run 'npm install'
 Run 'npm run start'
 
 ### Project will start in port 3000
-# news-front
-# news-front
-# news-front
+
