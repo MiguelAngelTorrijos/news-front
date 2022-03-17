@@ -1,0 +1,28 @@
+.name {
+  color: black;
+  background-color: aqua;
+  font-size: 14px;
+}
+.item {
+  display: flex;
+  flex-direction: column;
+}
+
+.item-detail {
+  margin-top: 1rem;
+  width: 100%;
+  color: black;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.separator {
+  border-bottom: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+}
+
+a:-webkit-any-link {
+  text-decoration: none;
+  color: inherit;
+}
